@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<dbconfig>
+    <jdbc>
+        <derby driver="org.apache.derby.jdbc.EmbeddedDriver">
+            <user>zut !</user>
+            <password>AY4907ozO4H35woOyQkQMA==<!--Ne pas modifier, car cela risque d'empêcher l'application d'accèder à la database--></password>
+            <protocol>jdbc:derby</protocol>
+            <options>
+                <create>true</create>
+            </options>
+            <location>data</location>
+            <database>
+                <list>bird-default</list>
+            </database>
+        </derby>
+    </jdbc>
+    <id>a0584b8f-674b-4176-a9ad-8d93ebefeff6</id>
+</dbconfig>
