@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 15 13:36:14 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-015a-41c5-ed55-00000851a598 
+on database directory D:\Eclipse Project Bird Hibernate\bird-derby-01\data\bird-default with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/D:/Eclipse%20Project%20Bird%20Hibernate/bird-derby-01/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_05-b13
+user.dir=D:\Eclipse Project Bird Hibernate\bird-derby-01
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
